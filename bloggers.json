@@ -726,6 +726,12 @@
       "name": "Michal Gellert",
       "rss": "http://michalgellert.blogspot.com/feeds/posts/default",
       "twitter": "@MichalGellert"
+    },
+    {
+      "jsonId": 128,
+      "name": "Piotr Goliasz",
+      "rss": "http://mlaas-adventures.blogspot.com/feeds/posts/default",
+      "twitter": "@pgoliasz"
     }
   ]
 }
